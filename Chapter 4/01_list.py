@@ -1,7 +1,7 @@
 friends= ["Apple", 0.25,5,True,"Mango"]
 print(friends[3])
-friends[3]=False # Change the Name of list -------- 
-print(friends[3])
+friends[2]=8 # Change the Name of list -------- 
+print(friends[2])
 
 friends.append("Dog") # ADD END THE LINE TO ADD DATA TYPE -----
 print(friends)
