@@ -1,0 +1,8 @@
+st='''1. Python (Programming Language)
+In the context of technology, Python is a high-level, general-purpose programming language created by Guido van Rossum and first released in 1991.'''
+
+f=open("myfile.txt","w")
+
+f.write(st)
+
+f.close()
