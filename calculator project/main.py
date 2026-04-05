@@ -27,7 +27,7 @@ print("Please select a operation: \n" \
     "2. Subtraction \n"\
     "3. Multiply \n"\
     "4. Divide \n"\
-    "5. Avgrage " )
+    "5. Avgerage " )
 select = int(input("Select a operation from 1,2,3,4,5:"))
 
 number1 = int(input("Enter A Number 1:"))
